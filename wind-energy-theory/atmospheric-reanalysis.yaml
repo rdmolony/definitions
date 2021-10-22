@@ -1,0 +1,5 @@
+date: 2021-10-22
+definition: |
+  A project which aims to assimilate historical atmospheric observational data spanning an extended period, using a consistent assimilation scheme throughout.
+sources:
+  -  https://en.wikipedia.org/wiki/Atmospheric_reanalysis
