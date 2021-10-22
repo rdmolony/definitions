@@ -15,4 +15,5 @@ A collection of useful definitions on wind energy theory
 * [atmospheric-reanalysis](https://github.com/rdmolony/definitions/blob/main/wind-energy-theory/atmospheric-reanalysis.yaml) - 2021-10-22
 * [data-assimilation](https://github.com/rdmolony/definitions/blob/main/wind-energy-theory/data-assimilation.yaml) - 2021-10-22
 * [era](https://github.com/rdmolony/definitions/blob/main/wind-energy-theory/era.yaml) - 2021-10-22
+* [wind-shear](https://github.com/rdmolony/definitions/blob/main/wind-energy-theory/wind-shear.yaml) - 2021-10-22
 <!-- index ends -->
