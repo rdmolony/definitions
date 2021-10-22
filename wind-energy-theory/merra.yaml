@@ -1,0 +1,6 @@
+date: 2021-10-22
+definition: |
+  Global atmospheric reanalysis produced by the NASA Global Modeling and Assimilation Office (GMAO). It spans the satellite observing era from 1980 to the present. Stands for Modern-Era Retrospective analysis for Research and Applications.
+sources:
+  - https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/
+  - https://climatedataguide.ucar.edu/climate-data/nasas-merra2-reanalysis

@@ -11,4 +11,5 @@ A collection of useful definitions on wind energy theory
 * [anemometer](https://github.com/rdmolony/definitions/blob/main/wind-energy-theory/anemometer.yaml) - 2021-10-22
 * [sodar](https://github.com/rdmolony/definitions/blob/main/wind-energy-theory/sodar.yaml) - 2021-10-22
 * [lidar](https://github.com/rdmolony/definitions/blob/main/wind-energy-theory/lidar.yaml) - 2021-10-22
+* [merra](https://github.com/rdmolony/definitions/blob/main/wind-energy-theory/merra.yaml) - 2021-10-22
 <!-- index ends -->
