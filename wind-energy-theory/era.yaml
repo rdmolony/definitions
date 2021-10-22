@@ -1,0 +1,5 @@
+date: 2021-10-22
+definition: |
+  An atmospheric reanalysis of the global climate covering the period from January 1950 to present. ERA5 is produced by the Copernicus Climate Change Service (C3S) at ECMWF.  Stands for ECMWF (European Centre for Medium-Range Weather Forecasts) Reanalysis v5.
+sources:
+  - https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5
