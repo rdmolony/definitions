@@ -10,4 +10,5 @@ A collection of useful definitions on wind energy theory
 * [selective-averaging-process](https://github.com/rdmolony/definitions/blob/main/wind-energy-theory/selective-averaging-process.yaml) - 2021-10-22
 * [anemometer](https://github.com/rdmolony/definitions/blob/main/wind-energy-theory/anemometer.yaml) - 2021-10-22
 * [sodar](https://github.com/rdmolony/definitions/blob/main/wind-energy-theory/sodar.yaml) - 2021-10-22
+* [lidar](https://github.com/rdmolony/definitions/blob/main/wind-energy-theory/lidar.yaml) - 2021-10-22
 <!-- index ends -->
